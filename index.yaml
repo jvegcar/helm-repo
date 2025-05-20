@@ -22,4 +22,15 @@ entries:
     urls:
     - https://github.com/jvegcar/helm-repo/gh-pages/helm/test-app2-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-20T18:19:40.681763302Z"
+  test-app3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-20T18:26:42.444796483Z"
+    description: A Helm chart for Kubernetes
+    digest: 70e1f01730253780201ac3e5d1c43a467963a06775ef03941f4ef08eded3890c
+    name: test-app3
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/jvegcar/helm-repo/gh-pages/helm/test-app3-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-20T18:26:42.44359535Z"
