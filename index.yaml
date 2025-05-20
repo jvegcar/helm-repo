@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  new-ns:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-05-20T18:35:40.628502409Z"
+    description: A Helm chart for Kubernetes
+    digest: b91e4c7f9e9ff3a2d928aa8297e040d74b5c8145a67ad371ed242485d4926b1d
+    name: new-ns
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/jvegcar/helm-repo/gh-pages/helm/new-ns-0.1.0.tgz
+    version: 0.1.0
   test-app3:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/jvegcar/helm-repo/gh-pages/helm/test-app3-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-20T18:26:42.44359535Z"
+generated: "2025-05-20T18:35:40.627912845Z"
